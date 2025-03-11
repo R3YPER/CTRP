@@ -1,0 +1,6 @@
+{
+    "targets": [
+       "glass_pane"
+    ],
+    "pane_culling_fix": true
+ }

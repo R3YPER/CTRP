@@ -1,0 +1,9 @@
+{
+    "loader": "fusion:model",
+    "type": "connecting",
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "minecraft:block/oak_planks",
+        "side": "minecraft:block/bookshelf"
+    }
+}
