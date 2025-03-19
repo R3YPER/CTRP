@@ -14,9 +14,9 @@ But with CTRP texture of glass change into:
 
 ![glass](https://github.com/user-attachments/assets/9333d9b9-34bb-4fb9-862a-5a0f909bc836)
 
-With libruary and function [Fusion (Connected textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) mod glass can connect to same blocks
+With library and function [Fusion (Connected textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) mod, glass can connect to same blocks
 
 Here is example of glass block:
 
 ![glass_examplef](https://github.com/user-attachments/assets/278046f8-4fa5-4ac3-80fe-9dbe62757824)
-
+ 
